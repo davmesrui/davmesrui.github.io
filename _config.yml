@@ -18,9 +18,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Main Page", icon: home}
-  - {title: "CV",url="introduce_url.com", icon: address-card}
-  - {file: "Research", title: "Research", icon: paperclip}
-  - {file: "Teaching", title: "Teaching", icon: chalkboard}
+  - {title: "CV",url="introduce_url.com"}
+  - {file: "Research", title: "Research"}
+  - {file: "Teaching", title: "Teaching"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:davmesrui@gmail.com"}
