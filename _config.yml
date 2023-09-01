@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Main Page", url="davmesrui.github.io", icon: home}
+  - {title: "Home", url="davmesrui.github.io", icon: home}
   - {title: "CV",url="introduce_url.com"}
   - {file: "research.md", title: "Research"}
   - {file: "Teaching", title: "Teaching"}
