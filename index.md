@@ -2,6 +2,16 @@
 layout: page
 title: ""
 ---
+<div class="container">
+  <div class="text">
+    <h1>Welcome to My Website</h1>
+    <p>This is the homepage of my Jekyll website.</p>
+  </div>
+  <div class="images">
+    ![Image 1](/path/to/your/image1.jpg)
+    ![Image 2](/path/to/your/image2.jpg)
+  </div>
+</div>
 
 | ![Image 1](/path/to/your/image1.jpg) | Welcome to My Website |
 
