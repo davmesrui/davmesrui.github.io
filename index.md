@@ -7,7 +7,7 @@ title: ""
     <p>Hello there! Welcome to my website.</p>
   </div>
   <div class="images">
-    ![Costorphine](assets/images/foto_1.jpg)
+    ![Costorphine](/assets/images/foto_1.jpg)
   </div>
 </div>
 
