@@ -3,6 +3,8 @@ layout: page
 title: ""
 ---
 
+| ![Image 1](/path/to/your/image1.jpg) | Welcome to My Website |
+
 Hello there! Welcome to my website
 
 ## About Me
