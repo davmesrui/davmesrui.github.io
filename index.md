@@ -2,14 +2,10 @@
 layout: page
 title: ""
 ---
-<div class="container">
-  <div class="text">
-    <p>Hello there! Welcome to my website.</p>
-  </div>
-  <div class="images">
-    ![Costorphine](/images/foto_1.jpg)
-  </div>
-</div>
+
+Hello there! Welcome to my website
+
+![Costorphine](/images/foto_1.jpg)
 
 ## About Me
 
