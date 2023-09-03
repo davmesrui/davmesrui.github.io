@@ -41,4 +41,10 @@ EH8 9JT
 ### Working Papers
 - Did low-skilled men crowd low-skilled women out of the UK labour market?
 - The effects of the end of dictatorships on female labour force participation
-- What pushes crimes in local labour markets, unemployment or inequality?
+- What pushes crime in local labour markets, Unemployment or inequality?
+
+## Policy, Discussion Papers, and others
+- 'All else not equal. COVID-19, Inequality, and the Role of Policymakers', published in Insight magazine (awarded best article prize)
+-  Informe COTEC
+-  Informe UPO
+-  Informe ILO
