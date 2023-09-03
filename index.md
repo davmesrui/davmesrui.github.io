@@ -35,7 +35,7 @@ EH8 9JT
 
 ## Research
 
-### Research Pappers
+### Research Papers
 - 'Hidden figures behind two-vehicle crashes: An assessment of the risk and external costs of drunk driving in Spain', published in Accident Analysis & Prevention, coauthored with Jesús Rodríguez-López and Yolanda Rebollo-Sanz
 
 ### Working Papers
