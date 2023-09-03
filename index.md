@@ -4,18 +4,12 @@ title: ""
 ---
 <div class="container">
   <div class="text">
-    <h1>Welcome to My Website</h1>
-    <p>This is the homepage of my Jekyll website.</p>
+    <p>Hello there! Welcome to my website.</p>
   </div>
   <div class="images">
-    ![Image 1](/path/to/your/image1.jpg)
-    ![Image 2](/path/to/your/image2.jpg)
+    ![Picture of David](assets/images/dmr_pic.jpg)
   </div>
 </div>
-
-| ![Image 1](/path/to/your/image1.jpg) | Welcome to My Website |
-
-Hello there! Welcome to my website
 
 ## About Me
 
