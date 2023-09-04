@@ -6,34 +6,20 @@ title: ""
 <style>
 .sentence-line {
     border-bottom: 1px solid #ccc; Introduces a line between setences */
-    margin-bottom: 5px; /* Adjust the spacing as needed */
+    margin-bottom: 2px; /* Adjust the spacing as needed */
 }
 </style>
 
-<div class="side-by-side">
-  <div class="text">
+<div class="display: flex; align-items: center;">
+  <div class="flex: 1; padding: 20px;">
     <p>Hello there! Welcome to my website.</p>
     <h2>About Me</h2>
   </div>
-  <div class="image">
+  <div class= "max-width: 50%; padding: 20px;">
     <img src="/images/dmr_gimage.jpg" alt="Pic of David">
   </div>
 </div>
 
-.side-by-side {
-  display: flex; /* Use flexbox to create a side-by-side layout */
-  align-items: center; /* Center vertically if needed */
-}
-
-.text {
-  flex: 1; /* Allow text to expand and fill available space */
-  padding: 20px; /* Adjust spacing as needed */
-}
-
-.image {
-  max-width: 50%; /* Adjust image width as needed */
-  padding: 20px; /* Adjust spacing as needed */
-}
 
 ![Costorphine](/images/foto_1.jpg)
 
