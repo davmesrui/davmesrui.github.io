@@ -6,7 +6,7 @@ title: ""
 <style>
 .sentence-line {
     /* border-bottom: 1px solid #ccc; Introduces a line between setences */
-    margin-bottom: 7px; /* Adjust the spacing as needed */
+    margin-bottom: 5px; /* Adjust the spacing as needed */
 }
 </style>
 
