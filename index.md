@@ -20,25 +20,13 @@ title: ""
 
 ## Contact
 
-/*<style>
-.sentence-line {
-    border-bottom: 1px solid #ccc; Introduces a line between setences */
-    margin-bottom: 1px; /* Adjust the spacing as needed */
-}
-</style>*/
 
 D.Mesa@ed.ac.uk // davmesrui@gmail.com
-/* <div class="sentence-line"></div> */
 Office 4.12
-/* <div class="sentence-line"></div> */
 School of Economics
-/* <div class="sentence-line"></div> */
 University of Edinburgh
-/* <div class="sentence-line"></div> */
 30 Buccleuch Place
-/* <div class="sentence-line"></div> */
 Edinburgh
-<div class="sentence-line"></div>
 EH8 9JT
 
 ![Costorphine](/images/foto_1.jpg)
