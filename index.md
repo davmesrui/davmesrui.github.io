@@ -27,24 +27,6 @@ title: ""
     <p>30 Buccleuch Place, Edinburgh, EH8 9JT</p>
   </div>
   <div style= "max-width: 50%; padding: 20px;">
-    <img src="/images/flags.jpeg" alt="Flags" width="75%" height="75%">
+    <img src="/images/flags.jpeg" alt="Flags" width="85%" height="85%">
   </div>
 </div>
-
-## Contact
-
-D.Mesa@ed.ac.uk // davmesrui@gmail.com
-
-Office 4.12
-
-School of Economics
-
-University of Edinburgh
-
-30 Buccleuch Place
-
-Edinburgh
-
-EH8 9JT
-
-![Costorphine](/images/foto_1.jpg)
