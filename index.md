@@ -3,6 +3,13 @@ layout: page
 title: ""
 ---
 
+<style>
+.sentence-line {
+    /* border-bottom: 1px solid #ccc; Introduces a line between setences */
+    margin-bottom: 7px; /* Adjust the spacing as needed */
+}
+</style>
+
 Hello there! Welcome to my website
 
 ![Costorphine](/images/foto_1.jpg)
@@ -19,12 +26,6 @@ I have also experience teaching introductory courses in economics and advanced e
 
 In my free time, I love learning new skills, exploring Scotland, playing tennis, enjoying theatre, and playing the ukulele.
 
-<style>
-.sentence-line {
-    border-bottom: 1px solid #ccc; /* Adjust the color and thickness as needed */
-    margin-bottom: 10px; /* Adjust the spacing as needed */
-}
-</style>
 
 ## Contact
 
