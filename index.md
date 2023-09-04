@@ -28,7 +28,7 @@ title: ""
     <p>30 Buccleuch Place, Edinburgh, EH8 9JT</p>
   </div>
   <div style= "max-width: 50%; padding: 20px;">
-    <img src="/images/edin.jpeg" alt="Edinburgh">
+    <img src="/images/flags.jpeg" alt="Flags", width="50%", height="50%">
   </div>
 </div>
 
