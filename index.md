@@ -28,7 +28,7 @@ In my free time, I love learning new skills, exploring Scotland, playing tennis,
 
 ## Contact
 
-D.Mesa@ed.ac.uk
+D.Mesa@ed.ac.uk // davmesrui@gmail.com
 <div class="sentence-line"></div>
 Office 4.12
 <div class="sentence-line"></div>
