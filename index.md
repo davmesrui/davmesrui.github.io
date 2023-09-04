@@ -19,18 +19,25 @@ I have also experience teaching introductory courses in economics and advanced e
 
 In my free time, I love learning new skills, exploring Scotland, playing tennis, enjoying theatre, and playing the ukulele.
 
+<style>
+.sentence-line {
+    border-bottom: 1px solid #ccc; /* Adjust the color and thickness as needed */
+    margin-bottom: 10px; /* Adjust the spacing as needed */
+}
+</style>
+
 ## Contact
 
 D.Mesa@ed.ac.uk
-
+<div class="sentence-line"></div>
 Office 4.12
-
+<div class="sentence-line"></div>
 School of Economics
-
+<div class="sentence-line"></div>
 University of Edinburgh
-
+<div class="sentence-line"></div>
 30 Buccleuch Place
-
+<div class="sentence-line"></div>
 Edinburgh
-
+<div class="sentence-line"></div>
 EH8 9JT
