@@ -6,7 +6,7 @@ title: ""
 <style>
 .sentence-line {
     border-bottom: 1px solid #ccc; Introduces a line between setences */
-    margin-bottom: 2px; /* Adjust the spacing as needed */
+    margin-bottom: -2px; /* Adjust the spacing as needed */
 }
 </style>
 
@@ -16,7 +16,7 @@ title: ""
     <h2>About Me</h2>
   </div>
   <div class= "max-width: 50%; padding: 20px;">
-    <img src="/images/dmr_gimage.jpg" alt="Pic of David">
+    <img src="/images/dmr_pro_image.jpg" alt="Pic of David">
   </div>
 </div>
 
