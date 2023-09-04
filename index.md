@@ -20,13 +20,31 @@ title: ""
 
 ## Contact
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding: 20px;">
+    <h2>Contact</h2>
+    <p>D.Mesa@ed.ac.uk // davmesrui@gmail.com</p>
+    <p>Office 4.12, School of Economics, University of Edinburgh</p>
+    <p>30 Buccleuch Place, Edinburgh, EH8 9JT</p>
+  </div>
+  <div style= "max-width: 50%; padding: 20px;">
+    <img src="/images/edin.jpg" alt="Pic of David">
+  </div>
+</div>
+
 
 D.Mesa@ed.ac.uk // davmesrui@gmail.com
+
 Office 4.12
+
 School of Economics
+
 University of Edinburgh
+
 30 Buccleuch Place
+
 Edinburgh
+
 EH8 9JT
 
 ![Costorphine](/images/foto_1.jpg)
