@@ -18,7 +18,6 @@ title: ""
   </div>
 </div>
 
-## Contact
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding: 20px;">
@@ -28,10 +27,11 @@ title: ""
     <p>30 Buccleuch Place, Edinburgh, EH8 9JT</p>
   </div>
   <div style= "max-width: 50%; padding: 20px;">
-    <img src="/images/flags.jpeg" alt="Flags", width="50%", height="50%">
+    <img src="/images/flags.jpeg" alt="Flags" width="50%" height="50%">
   </div>
 </div>
 
+## Contact
 
 D.Mesa@ed.ac.uk // davmesrui@gmail.com
 
