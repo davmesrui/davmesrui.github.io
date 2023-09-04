@@ -10,12 +10,12 @@ title: ""
 }
 </style>
 
-<div class="display: flex; align-items: center;">
-  <div class="flex: 1; padding: 20px;">
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding: 20px;">
     <p>Hello there! Welcome to my website.</p>
     <h2>About Me</h2>
   </div>
-  <div class= "max-width: 50%; padding: 20px;">
+  <div style= "max-width: 50%; padding: 20px;">
     <img src="/images/dmr_pro_image.jpg" alt="Pic of David">
   </div>
 </div>
