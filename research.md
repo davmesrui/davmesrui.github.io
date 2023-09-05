@@ -22,7 +22,7 @@ title: ""
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding: 20px;">
     <h2>Work in progress</h2>
-    <p>a</p>
+    <p>.</p>
   </div>
   <div style= "max-width: 50%; padding: 20px;">
     <img src="/images/dogs.jpeg" alt="Doggies" width="85%" height="85%">
