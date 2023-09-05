@@ -9,7 +9,7 @@ title: "Research"
     <p>- 'Hidden figures behind two-vehicle crashes: An assessment of the risk and external costs of drunk driving in Spain', published in Accident Analysis & Prevention, coauthored with Jesús Rodríguez-López and Yolanda Rebollo-Sanz</p>
   </div>
   <div style= "max-width: 50%; padding: 20px;">
-    <img src="/images/cramond.jpeg" alt="Cramond" width="85%" height="85%">
+    <img src="/images/cramond.jpeg" alt="Cramond" width="75%" height="75%">
   </div>
 </div>
 
