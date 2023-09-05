@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Research"
+title: ""
 ---
 
 <div style="display: flex; align-items: center;">
@@ -8,7 +8,7 @@ title: "Research"
     <h2>Research papers</h2>
     <p>- 'Hidden figures behind two-vehicle crashes: An assessment of the risk and external costs of drunk driving in Spain', published in Accident Analysis & Prevention, coauthored with Jesús Rodríguez-López and Yolanda Rebollo-Sanz</p>
   </div>
-  <div style= "max-width: 50%; padding: 20px;">
+  <div style= "max-width: 50%; padding: 10px;">
     <img src="/images/cramond.jpeg" alt="Cramond" width="70%" height="70%">
   </div>
 </div>
