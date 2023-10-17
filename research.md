@@ -20,10 +20,9 @@ title: ""
   </div>
 </div>
 
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding: 20px;">
-    <h2>Work in progress</h2>
+    <h2>Working Papers</h2>
     <ul style="list-style-type: disc; padding-left: 20px;">
       <li>
         <a href="drive_link">
@@ -31,9 +30,21 @@ title: ""
         </a>
       </li>
       <li>
-        <a href="drive_link2">
           Did low-skilled men crowd low-skilled women out of the UK labour market?
-        </a>
+      </li>
+    </ul>
+  </div>
+  <div style="max-width: 50%; padding: 20px;">
+    <img src="/images/dogs.jpeg" alt="Doggies" width="85%" height="85%">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding: 20px;">
+    <h2>Work in Progress</h2>
+    <ul style="list-style-type: disc; padding-left: 20px;">
+      <li>
+          The end of dictatorships and the effect on female labour force participation
       </li>
     </ul>
   </div>
