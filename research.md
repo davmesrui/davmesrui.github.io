@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center;">
   <div style="flex: 1; padding: 20px;">
     <h2>Research papers</h2>
     <ul style="list-style-type: disc; padding-left: 20px;">
