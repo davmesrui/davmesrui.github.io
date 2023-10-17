@@ -11,12 +11,12 @@ title: ""
         <a href="https://www.sciencedirect.com/science/article/pii/S0001457519302726">
           Hidden figures behind two-vehicle crashes: An assessment of the risk and external costs of drunk driving in Spain
         </a>,
-        Accident Analysis & Prevention, coauthored with Jesús Rodríguez-López and Yolanda Rebollo-Sanz
+        Accident Analysis & Prevention, 127, 42-51.  Coauthored with Jesús Rodríguez-López and Yolanda Rebollo-Sanz
       </li>
     </ul>
   </div>
   <div style="max-width: 50%; padding: 10px;">
-    <img src="/images/cramond.jpeg" alt="Cramond" width="70%" height="70%">
+    <img src="/images/st_andres_castle_tunnel.jpeg" alt="tunnel" width="70%" height="70%">
   </div>
 </div>
 
