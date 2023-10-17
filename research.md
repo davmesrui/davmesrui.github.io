@@ -35,7 +35,7 @@ title: ""
     </ul>
   </div>
   <div style="max-width: 50%; padding: 20px;">
-    <img src="/images/dogs.jpeg" alt="Doggies" width="85%" height="85%">
+    <img src="/images/gullane.jpeg" alt="Gullane" width="85%" height="85%">
   </div>
 </div>
 
