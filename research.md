@@ -16,7 +16,7 @@ title: ""
     </ul>
   </div>
   <div style="max-width: 50%; padding: 10px;">
-    <img src="/images/st_andres_castle_tunnel.jpeg" alt="tunnel" width="70%" height="70%">
+    <img src="/images/cramond.jpeg" alt="Cramond" width="70%" height="70%">
   </div>
 </div>
 
@@ -35,7 +35,7 @@ title: ""
     </ul>
   </div>
   <div style="max-width: 50%; padding: 20px;">
-    <img src="/images/gullane.jpg" alt="Gullane" width="85%" height="85%">
+    <img src="/images/st_andres_castle_tunnel.jpeg" alt="tunnel" width="70%" height="70%">
   </div>
 </div>
 
