@@ -13,7 +13,7 @@ title: ""
     <p> I have also experience teaching introductory courses in economics and advanced econometric courses. </p>
     <p> In my free time, I love learning new skills, exploring Scotland, playing tennis, enjoying theatre, and playing the ukulele. </p>      
   </div>
-  <div style= "max-width: 50%; padding: 20px;">
+  <div style= "max-width: 40%; padding: 20px;">
     <img src="/images/dmr_gimage.jpg" alt="Pic of David">
   </div>
 </div>
