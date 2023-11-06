@@ -14,7 +14,7 @@ title: ""
     <p> In my free time, I love learning new skills, exploring Scotland, playing tennis, enjoying theatre, and playing the ukulele. </p>      
   </div>
   <div style= "max-width: 50%; padding: 20px;">
-    <img src="/images/dmr_pro_image.jpg" alt="Pic of David">
+    <img src="/images/dmr_gimage.jpg" alt="Pic of David">
   </div>
 </div>
 
