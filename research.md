@@ -15,7 +15,7 @@ title: ""
       </li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 10px; text-align: right;">
+  <div style="flex: 1; padding: 15px; text-align: right;">
     <img src="/images/cramond.jpeg" alt="Cramond" width="70%" height="70%">
   </div>
 </div>
@@ -34,7 +34,7 @@ title: ""
       </li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 20px; text-align: right;">
+  <div style="flex: 1; padding: 15px; text-align: right;">
     <img src="/images/st_andres_castle_tunnel.jpeg" alt="tunnel" width="70%" height="70%">
   </div>
 </div>
@@ -48,7 +48,7 @@ title: ""
       </li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 20px; text-align: right;">
-    <img src="/images/doggies.jpeg" alt="Doggies" width="85%" height="85%">
+  <div style="flex: 1; padding: 15px; text-align: right;">
+    <img src="/images/doggies.jpeg" alt="Doggies" width="70%" height="70%">
   </div>
 </div>
