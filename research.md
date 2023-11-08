@@ -15,7 +15,7 @@ title: ""
       </li>
     </ul>
   </div>
-  <div style="max-width: 50%; padding: 10px;">
+  <div style="max-width: 50%; padding: -50px;">
     <img src="/images/cramond.jpeg" alt="Cramond" width="70%" height="70%">
   </div>
 </div>
