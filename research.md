@@ -4,9 +4,9 @@ title: ""
 ---
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding: 20px;">
+  <div style="flex: 1; padding: 30px;">
     <h2>Research papers</h2>
-    <ul style="list-style-type: disc; padding-left: 20px;">
+    <ul style="list-style-type: disc; padding-left: 30px;">
       <li>
         <a href="https://www.sciencedirect.com/science/article/pii/S0001457519302726">
           Hidden figures behind two-vehicle crashes: An assessment of the risk and external costs of drunk driving in Spain
@@ -21,9 +21,9 @@ title: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding: 20px;">
+  <div style="flex: 1; padding: 30px;">
     <h2>Working Papers</h2>
-    <ul style="list-style-type: disc; padding-left: 20px;">
+    <ul style="list-style-type: disc; padding-left: 30px;">
       <li>
         <!--<a href="https://drive.google.com/file/d/1UIVrszFIypd_YthQxrQmJHdd4uFloOkG/view?usp=drive_link">-->
           What drives crime, Unemployment or Inequality?
@@ -40,9 +40,9 @@ title: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding: 20px;">
+  <div style="flex: 1; padding: 30px;">
     <h2>Work in Progress</h2>
-    <ul style="list-style-type: disc; padding-left: 20px;">
+    <ul style="list-style-type: disc; padding-left: 30px;">
       <li>
           The end of dictatorships and the effect on female labour force participation
       </li>
