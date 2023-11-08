@@ -4,9 +4,9 @@ title: ""
 ---
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1; padding: 0px;">
     <h2>Research papers</h2>
-    <ul style="list-style-type: disc; padding-left: 10px;">
+    <ul style="list-style-type: disc; padding-left: 0px;">
       <li>
         <a href="https://www.sciencedirect.com/science/article/pii/S0001457519302726">
           Hidden figures behind two-vehicle crashes: An assessment of the risk and external costs of drunk driving in Spain
