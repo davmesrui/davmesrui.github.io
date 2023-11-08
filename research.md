@@ -49,6 +49,6 @@ title: ""
     </ul>
   </div>
   <div style="flex: 1; padding: 15px; text-align: right;">
-    <img src="/images/doggies.jpeg" alt="Doggies" width="70%" height="70%">
+    <img src="/images/dogs.jpeg" alt="Doggies" width="70%" height="70%">
   </div>
 </div>
