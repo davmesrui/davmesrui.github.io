@@ -34,7 +34,7 @@ title: ""
       </li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 1px; text-align: left;">
+  <div style="flex: 1; padding: 1px; text-align: right;">
     <img src="/images/st_andres_castle_tunnel.jpeg" alt="tunnel" width="70%" height="70%">
   </div>
 </div>
@@ -48,7 +48,7 @@ title: ""
       </li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 1px; text-align: left;">
+  <div style="flex: 1; padding: 1px; text-align: right;">
     <img src="/images/dogs.jpeg" alt="Doggies" width="85%" height="85%">
   </div>
 </div>
