@@ -4,7 +4,7 @@ title: ""
 ---
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 2; padding: 5px; text-align: left;">
+  <div style="flex: 2; padding: 2px; text-align: left;">
     <h2>Research papers</h2>
     <ul style="list-style-type: disc; padding-left: 0;">
       <li>
@@ -21,7 +21,7 @@ title: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding: 5px; text-align: left;">
+  <div style="flex: 2; padding: 2px; text-align: left;">
     <h2>Working Papers</h2>
     <ul style="list-style-type: disc; padding-left: 0;">
       <li>
@@ -40,7 +40,7 @@ title: ""
 </div>
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 2; padding: 10px; text-align: left;">
+  <div style="flex: 2; padding: 2px; text-align: left;">
     <h2>Work in Progress</h2>
     <ul style="list-style-type: disc; padding-left: 0;">
       <li>
