@@ -7,6 +7,6 @@ title: "CV"
     You can download my CV <a href="mesaruiz_david_cv.pdf">here</a>
   </div>
   <div style="flex: 1; padding: 1px; text-align: right;">
-    <img src="/images/cramond.jpeg" alt="Cramond" width="70%" height="70%">
+    <img src="/images/edin.jpeg" alt="Cramond" width="100%" height="100%">
   </div>
 </div>
