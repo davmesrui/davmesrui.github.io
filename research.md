@@ -2,6 +2,7 @@
 layout: page
 title: ""
 ---
+
 <div style="display: flex; align-items: center;">
   <div style="flex: 2; padding: 10px; text-align: left;">
     <h2>Research papers</h2>
@@ -18,7 +19,18 @@ title: ""
     <img src="/images/cramond.jpeg" alt="Cramond" width="70%" height="70%">
   </div>
 </div>
-	@@ -34,7 +34,7 @@ title: ""
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2; padding: 10px; text-align: left;">
+    <h2>Working Papers</h2>
+    <ul style="list-style-type: disc; padding-left: 0;">
+      <li>
+        <a href="https://drive.google.com/file/d/1VcYX3i1pWOqt2Jef-8oMBTCYJdU7vGI8/view?usp=sharing">
+          What drives crime, Unemployment or Inequality?
+        </a>
+      </li>
+      <li>
+          Did low-skilled men crowd low-skilled women out of the UK labor market?
       </li>
     </ul>
   </div>
@@ -26,7 +38,13 @@ title: ""
     <img src="/images/st_andres_castle_tunnel.jpeg" alt="tunnel" width="70%" height="70%">
   </div>
 </div>
-	@@ -48,7 +48,7 @@ title: ""
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 2; padding: 10px; text-align: left;">
+    <h2>Work in Progress</h2>
+    <ul style="list-style-type: disc; padding-left: 0;">
+      <li>
+          The end of dictatorships and the effect on female labor force participation
       </li>
     </ul>
   </div>
