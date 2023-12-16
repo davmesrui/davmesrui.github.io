@@ -15,7 +15,7 @@ title: ""
       </li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 30px; text-align: left;">
+<div style="display: flex; align-items: center; justify-content: flex-end; margin-right: 0;">
     <img src="/images/cramond.jpeg" alt="Cramond" width="70%" height="70%">
   </div>
 </div>
