@@ -10,5 +10,3 @@ title: "CV"
     <img src="/images/cramond.jpeg" alt="Cramond" width="70%" height="70%">
   </div>
 </div>
-
-You can download my CV <a href="mesaruiz_david_cv.pdf" download>here</a>
