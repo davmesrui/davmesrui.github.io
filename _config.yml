@@ -16,8 +16,8 @@ minimal: false             # use a dark header
 
 # Menu
 
-<a href="cv_dmr.pdf" target="_blank">CV</a>
 navigation:                # accepts {file, title, url, icon, sidebaricon}
+<a href="cv_dmr.pdf" target="_blank">CV</a>
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "non_academic_writing.md", title: "Non-academic writing"}
