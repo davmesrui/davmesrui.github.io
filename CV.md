@@ -4,4 +4,4 @@ title: "CV"
 ---
 
 
-You can download my CV <a href="cv_dmr.pdf" download>here</a>
+You can download my CV <a href="mesaruiz_david_cv.pdf" download>here</a>
