@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 
 # Menu
 
-<iframe src="cv_dmr.pdf" width="100%" height="500px"></iframe>
+<a href="cv_dmr.pdf" target="_blank">CV</a>
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
