@@ -4,4 +4,4 @@ title: "CV"
 ---
 
 
-<a href="cv_dmr.pdf" download>CV</a>
+You can download my CV <a href="cv_dmr.pdf" download>here</a>
