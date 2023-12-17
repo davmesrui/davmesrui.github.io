@@ -4,8 +4,6 @@ title: "CV"
 ---
 <object data="mesaruiz_david_cv.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-<iframe src="https://drive.google.com/file/d/15mJ-IczBqrvFZgyUnOTpj00B9veYxXOM/view?usp=sharing" width="100%" height="600px"></iframe>
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 2; padding: 5px; text-align: left;">
     You can download my CV <a href="mesaruiz_david_cv.pdf" download>here</a>
