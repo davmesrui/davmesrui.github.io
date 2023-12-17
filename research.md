@@ -39,6 +39,7 @@ This sheds light on the relatively understudied increase in US crime during the 
       <li>
           Did low-skilled men crowd low-skilled women out of the UK labor market?
       </li>
+      <p style="font-size: 10pt;">The development of information and communications technologies (ICT) has been proven to have polarized employment opportunities across the skill spectrum in the last decades. It created incentives to substitute capital for labour performing routine tasks making these redundant, while it triggered a rise in the relative demand for workers who perform high-skilled non-routine tasks, and (indirectly) those performing low-skilled non-routine tasks. These effects have been heterogeneous by gender when looking at occupational groups. Meanwhile, it has been observed that female participation decreased in low-skilled occupations. In a recent paper, these two trends have been linked in the US labour market. Low-skilled men, employed in blue-collar occupations, once unemployed, switched to interpersonal occupations, crowding out of the US labour market some low-skilled women, occupied in interpersonal occupations. This paper aims to assess this phenomenon in the UK by analyzing changes in the UK local labour markets and transitions in the overall UK economy.</p> 
     </ul>
   </div>
   <div style="flex: 1; padding: 1px; text-align: right;">
