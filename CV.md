@@ -2,7 +2,7 @@
 layout: page
 title: "CV"
 ---
-<iframe src="https://drive.google.com/file/d/1VcYX3i1pWOqt2Jef-8oMBTCYJdU7vGI8/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1VcYX3i1pWOqt2Jef-8oMBTCYJdU7vGI8/preview" width="1000" height="1000" allow="autoplay"></iframe>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 2; padding: 5px; text-align: left;">
