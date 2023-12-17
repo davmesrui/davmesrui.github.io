@@ -2,9 +2,7 @@
 layout: page
 title: "CV"
 ---
-<object data="mesaruiz_david_cv.pdf" width="1000" height="1000" type='application/pdf'></object>
-
-<iframe src="https://drive.google.com/viewerng/viewer?url=https://drive.google.com/file/d/1VcYX3i1pWOqt2Jef-8oMBTCYJdU7vGI8/view" width="100%" height="600px"></iframe>
+<iframe src="https://drive.google.com/file/d/1VcYX3i1pWOqt2Jef-8oMBTCYJdU7vGI8/preview" width="640" height="480" allow="autoplay"></iframe>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 2; padding: 5px; text-align: left;">
