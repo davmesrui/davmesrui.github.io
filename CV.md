@@ -4,7 +4,7 @@ title: "CV"
 ---
 <object data="mesaruiz_david_cv.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-<object data="mesaruiz_david_cv.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="{{post.mesaruiz_david_cv.pdf}}" width="1000" height="1000" type='application/pdf'></object>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 2; padding: 5px; text-align: left;">
