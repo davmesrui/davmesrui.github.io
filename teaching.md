@@ -3,11 +3,18 @@ layout: page
 title: "Teaching"
 ---
 
-### Academic Course 2022/2023 (University of Edinburgh)
+### Academic Course 2023/2024 (University of Edinburgh)
 Workshop in MatLab and R
 
 Applications of Econometrics (Econometrics 2):
 - Tutorial Groups
+- Piazza (Q&A Forum)
+- Helpdesks
+- Marking Projects
+
+### Academic Course 2022/2023 (University of Edinburgh)
+Applications of Econometrics (Econometrics 2):
+- Tutorial Groups 
 - Piazza (Q&A Forum)
 - Helpdesks
 - Marking Projects
