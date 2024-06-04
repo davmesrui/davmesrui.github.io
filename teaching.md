@@ -4,8 +4,7 @@ title: "Teaching"
 ---
 
 ### Academic Course 2022/2023 (University of Edinburgh)
-Workshop in MatLab and R:
-- 
+Workshop in MatLab and R
 
 Applications of Econometrics (Econometrics 2):
 - Tutorial Groups
