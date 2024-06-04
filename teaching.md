@@ -7,7 +7,7 @@ title: "Teaching"
 [Workshop in MatLab and R](https://drive.google.com/drive/folders/19V8lrBt6z0JtyEiP-StclcESlYvwsb5D?usp=sharing)
 
 - Applications of Econometrics (Econometrics 2):
--- Tutorial Groups
+* Tutorial Groups
 -- Piazza (Q&A Forum)
 -- Helpdesks
 -- Marking Projects
