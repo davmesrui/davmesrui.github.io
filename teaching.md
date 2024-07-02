@@ -5,6 +5,12 @@ title: "Teaching"
 
 ### Academic Course 2023/2024 (University of Edinburgh)
 - [Workshop in MatLab and R](https://drive.google.com/drive/folders/1_RiEFW0r_V_Bybjowgiwbq6t6-UXLX7S?usp=sharing)
+  - Co-organizer and instructor
+  - Master's and PhD level course
+    -  R programming
+    -  Data Wrangling and Analysis
+    -  Econometrics
+    -  Text Analysis
 
 - Applications of Econometrics (Econometrics 2):
   - Tutorial Groups
